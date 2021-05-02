@@ -1,19 +1,24 @@
 {
   "name": "semantic-release-ms-teams-demo",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Demo application for semantic-release-ms-teams plugin",
   "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yllieth/semantic-release-ms-teams-demo.git"
+    "url": "https://github.com/yllieth/semantic-release-ms-teams-demo.git"
   },
   "author": "Sylvain RAGOT <sylvnimes@hotmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yllieth/semantic-release-ms-teams-demo/issues"
   },
-  "homepage": "https://github.com/yllieth/semantic-release-ms-teams-demo#readme"
+  "homepage": "https://github.com/yllieth/semantic-release-ms-teams-demo#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.2"
+  }
 }
