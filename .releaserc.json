@@ -1,0 +1,7 @@
+{
+  "branches": [
+    {"name": "main"},
+    "next",
+    {"name": "dev", "prerelease": true}
+  ]
+}
