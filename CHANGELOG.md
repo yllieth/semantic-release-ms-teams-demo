@@ -1,3 +1,10 @@
+# [1.2.0-dev.2](https://github.com/yllieth/semantic-release-ms-teams-demo/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2021-05-08)
+
+
+### Features
+
+* **plugins:** updated semantic-release-ms-teams to 1.2.1-0 to test https://github.com/yllieth/semantic-release-ms-teams/issues/20 ([12e0a40](https://github.com/yllieth/semantic-release-ms-teams-demo/commit/12e0a4020abd42ce5220d5a87fbc73f44527d884))
+
 # [1.2.0-dev.1](https://github.com/yllieth/semantic-release-ms-teams-demo/compare/v1.1.0...v1.2.0-dev.1) (2021-05-02)
 
 
