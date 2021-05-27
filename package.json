@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-ms-teams-demo",
-  "version": "1.2.0-dev.2",
+  "version": "1.2.0-dev.3",
   "description": "Demo application for semantic-release-ms-teams plugin",
   "main": "index.js",
   "private": true,

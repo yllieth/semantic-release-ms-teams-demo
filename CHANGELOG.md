@@ -1,3 +1,10 @@
+# [1.2.0-dev.3](https://github.com/yllieth/semantic-release-ms-teams-demo/compare/v1.2.0-dev.2...v1.2.0-dev.3) (2021-05-27)
+
+
+### Features
+
+* **config:** turned on debug mode ([11b3ac4](https://github.com/yllieth/semantic-release-ms-teams-demo/commit/11b3ac40da1aba7a9fde9d9d43607cb31720f293))
+
 # [1.2.0-dev.2](https://github.com/yllieth/semantic-release-ms-teams-demo/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2021-05-08)
 
 
