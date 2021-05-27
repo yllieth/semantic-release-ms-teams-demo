@@ -12,5 +12,6 @@
     "@semantic-release/changelog",
     "@semantic-release/git",
     "semantic-release-ms-teams"
-  ]
+  ],
+  "debug": true
 }
