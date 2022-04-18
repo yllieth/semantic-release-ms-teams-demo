@@ -18,7 +18,8 @@
     "url": "https://github.com/yllieth/semantic-release-ms-teams-demo/issues"
   },
   "homepage": "https://github.com/yllieth/semantic-release-ms-teams-demo#readme",
-  "devDependencies": {
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.1",
     "semantic-release": "^19.0.2",
     "semantic-release-ms-teams": "^1.2.0"
   },
