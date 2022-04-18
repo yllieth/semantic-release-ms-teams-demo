@@ -21,5 +21,8 @@
   "devDependencies": {
     "semantic-release": "^19.0.2",
     "semantic-release-ms-teams": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
